@@ -11,6 +11,7 @@ This is intended to purely be a test implementation of asking for admin rights i
 [Android Material Components](https://github.com/material-components/material-components-android)
 
 ## Screenshots
+Admin Rights Disabled: ![disabled](https://raw.githubusercontent.com/Brutuski/LockScreen/master/Screenshots/admin-rights-disabled.jpg) Admin Rights Enabled: ![enabled](https://raw.githubusercontent.com/Brutuski/LockScreen/master/Screenshots/admin-rights-enabled.jpg)
 
 ## Icons and Color theme
 Icons courtesy [Vasundhara Sharma](https://www.behance.net/vasundhsharma) </br>
