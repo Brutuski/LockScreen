@@ -1,4 +1,4 @@
-# LockScreen
+# LockScreen <img src="https://raw.githubusercontent.com/Brutuski/LockScreen/master/app/src/main/res/drawable/png_icon_round.png" alt="drawing" width="35"/>
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Brutuski/LockScreen/blob/master/LICENSE)
 ![version](https://img.shields.io/badge/Version-BETA-orange) ![android](https://img.shields.io/badge/Made%20with-Android%20Studio-green)
 
