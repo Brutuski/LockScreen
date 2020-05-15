@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_iv_margin">50dp</dimen>
+    <dimen name="dim_iv_size">256dp</dimen>
+
+    <dimen name="dim_disclaimer_margin_bottom">40dp</dimen>
+
+    <dimen name="dim_btn_width">100dp</dimen>
+</resources>

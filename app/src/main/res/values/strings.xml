@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+
+    <string name="str_lock">Lock</string>
+    <string name="str_enable">Enable</string>
+    <string name="str_disable">Disable</string>
+
+    <string name="str_disclaimer">Disclaimer: Only intended to be a test app</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF032CAC</color>
+    <color name="colorPrimaryDark">#FF0C2744</color>
+    <color name="colorAccent">#FFFFBA5F</color>
+
+    <color name="clr_window_bg">#FFEDECCE</color>
+    <color name="clr_navigation_bar_bg">@color/colorPrimaryDark</color>
+
+    <color name="clr_text_disabled">#FFBDBDBD</color>
+    <color name="clr_title">#FFE6F2FF</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Colors taken from the Lighthaus theme (coming soon on my github) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/clr_window_bg</item>
+        <item name="android:navigationBarColor">@color/clr_navigation_bar_bg</item>
+        <item name="toolbarStyle">@style/Titlebar</item>
+    </style>
+
+    <!-- To change text colors in the title bar -->
+    <style name="Titlebar" parent="Widget.MaterialComponents.ActionBar.Primary">
+        <item name="titleTextColor">@color/clr_title</item>
+        <item name="titleTextStyle">@style/TextAppearance</item>
+    </style>
+    <style name="TextAppearance" parent="@style/Titlebar">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
